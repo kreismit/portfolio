@@ -16,8 +16,30 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           
+          <!-- 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          -->
+        <div class="nav">
+            <input type="checkbox" id="nav-check">
+            <div class="nav-header">
+                <div class="nav-title" id="project_title">
+                {{ site.title | default: site.github.repository_name }}
+                </div>
+            </div>
+            <div class="nav-btn">
+                <label for="nav-check">
+                    <span></span>
+                </label>
+            </div>
+            <div class="nav-links">
+                <a href="./cmr.html"> Mars Rover </a>
+                <a href="./smokescreen.html"> SmokeScreen </a>
+                <a href="https://kreismit.github.io/ECE4960/labs.html"> <em>Fast Robots</em> </a>
+                <a href="./177.html">  </a>
+                <a href="./dynamics.html"> <em>Intermediate Dynamics</em> </a>
+            </div>
+        </div>
 
         </header>
     </div>
@@ -28,6 +50,14 @@
         {{ content }}
       </section>
     </div>
+
+<script src="https://unpkg.com/vue-navigation-bar@X.X.X/dist/vue-navigation-bar.min.js"></script>
+
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://unpkg.com/vue-navigation-bar@X.X.X/dist/vue-navigation-bar.css"
+  />
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">

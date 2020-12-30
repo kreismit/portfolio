@@ -1,10 +1,21 @@
 ### Spitfire III
 
+![Spitfire III lifting Catalyst](images/Spitfire3Lift.jpg)
+
 Tim chose to redesign [Spitfire 2.0](./177.html) for several reasons:
 
 1. To hone his skills learned from Cornell.
 2. For emotional closure after poor design decisions prevented Spitfire 2.0 from meeting its expectations.
 3. For a programming rig to learn additional robotics and control system skills.
+4. Because he enjoys building robots.
+
+#### Achievements
+
+* Spitfire III, weighing 18 lb., lifts robots up to ~15 lb. without flipping.
+* Spitfire III shoots balls into the net with 100% accuracy unless the balls are defective.
+* Spitfire III drives faster than any previous Twisted Botz robot without overheating its motors.
+
+Videos coming soon!
 
 #### New Flywheel Control Algorithm
 

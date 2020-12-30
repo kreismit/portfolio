@@ -11,7 +11,9 @@ Tim was the first leader of the AstroTech subteam when Argos was designed.
 
 The brand-new AstroTech subteam develops the rover's on-board robotic science lab! As lead, I'm essentially the project manager of this subsystem. I do both technical work (designing and helping my members design; manufacturing) and administrative work (keeping the inter- and intra-subteam communication going; and lots of documentation!)
 
-![Testing of on-board science lab](https://marsrover.engineering.cornell.edu/images/subteams/astrotech.png)
+![Render of on-board science lab](images/11-24-19-Render.png)
+
+![Testing of on-board science lab](images/astrotech.png)
 
 #### COVID-19
 
@@ -26,7 +28,20 @@ Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel
 ##### Base Joint
 
 Tim designed the base joint of the rover's arm: the largest joint that swings the arm right and left (about the rover's z-axis.)
+
+![Sketch of base](images/BaseInitialConceptSketch.jpg)
+
+![CAD of base](images/BaseCADFDR.png)
+
+![ANSYS on base](images/Final-Stress-Bearings-Hidden.png)
+
+ANSYS results led Tim to add an additional sleeve bearing to prevent sideways wobble.
+
+![Annotated render of base CAD](images/BearingSandwichMod.png)
+
 He manufactured the most difficult parts and debugged torque transmission issues.
+
+![The base after assembly](images/BaseShoulderElbow.jpg)
 
 ##### Science (AstroTech) Testing Lead
 

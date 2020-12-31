@@ -2,7 +2,7 @@
 
 #### Triple Pendulum
 
-For our final project, Tim (and other students) was instructed to animate a triple pendulum (three-link chain).
+For the class final project, Tim (and other students) was instructed to animate a triple pendulum (three-link chain).
 Each link was assumed rigid and each joint was assumed to have no backlash or friction.
 
 Below are the results of three simulations, each solving different differential equations. Left to right:
@@ -15,7 +15,7 @@ Below are the results of three simulations, each solving different differential 
 <image src="images/dynamics/3xPendulumDAE.gif" width="200"></image>
 <image src="images/dynamics/3xPendulumLE.gif" width="200"></image>
 
-To verify the solution, he compared the trajectories from the three different sets of equations. They were identical, as they should be if the problem were solved correctly.
+To verify the solution, he compared the trajectories from the three different sets of equations. They were identical, as one would expect if the problem were solved correctly.
 
 <image src="images/dynamics/All3LineUp.png" width="500"></image>
 

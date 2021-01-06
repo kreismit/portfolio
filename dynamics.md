@@ -1,4 +1,4 @@
-<h3 id="final">Final project</h3>
+## Final project
 
 #### Triple Pendulum
 
@@ -28,9 +28,21 @@ He then simulated the un-forced motion of the linkage. The only external force a
 
 <image src="images/dynamics/4barLinkageDAETrapezoid.gif" width="500"></image>
 
+## 3-D dynamics simulation
 
-<h3 id="anim1">First animation</h3>
+*Intermediate Dynamics* students learned to analyze the motion of objects in 3-D. Translation is simple, since *F = ma* applies in one, two, or three dimensions. Rotation is more complex, since the moment of inertia is a tensor rather than a scalar.
+
+Below is an animation of a box rotating about an arbitrary axis (shown in pink).
+
+<img src="images/dynamics/RotatingBox.gif"></img>
+
+The following animations compare a the rotation of two boxes in free space. Their initial angular velocity is about an axis slightly offset from their principal axes. No moments are applied, yet the first one tumbles. The second is a cube, so its angular momentum matrix simplifies to a scalar multiple.
+
+<img src="images/dynamics/SpinningBox.gif" width="360"></img>
+<img src="images/dynamics/SpinningCube.gif" width="360"></img>
+
+## Motion of a baseball with realistic air drag
 
 <iframe src="https://cornell.app.box.com/embed/s/k5lxtdjqi1hvw3jo18to4e1jb8vmivsk?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-This is an animation of a baseball hit (launched) at a certain initial velocity. Viscous drag is modeled.
+This is an animation of a baseball hit (launched) at a certain initial velocity. Second-order viscous drag is modeled.

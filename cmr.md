@@ -138,7 +138,7 @@ To save a step, a screwdriver and a cylinder (handles were the most common objec
 
 The actuation of the end effector was redesigned from the previous year. 
 
-* The end effector was controlled manually by spinning the motor for the right amount of time. (CMR was divided into subteams by discipline, so the EE majors needed the ME majors to finish the mechanicals before the electronic system could be debugged; putting sensors in the EE was everyone's last priority.) Tim did not attempt to change this.
+* The end effector was controlled manually by spinning the motor for the right amount of time. (CMR was divided into subteams by discipline, so the EE majors needed the ME majors to finish the mechanicals before the electronic system could be debugged; putting sensors in the end effector was everyone's last priority.) Tim did not attempt to change this.
 
 To prevent the fingers from opening when closed, CMR had used non-backdriveable gears: either worm gears or lead screws. Both tended to lock when overdriven due to the difficulty of stopping the motor at the perfect time.
 
@@ -158,11 +158,11 @@ The one-piece 3D-printed finger block was carefully designed for simple assembly
 
 The entire design was analyzed in ANSYS for several expected loading cases. Though some of the full-assembly analyses did not converge (Tim had not yet taken FEA classes), each loaded component survived its tests. Some results are shown below.
 
-<img src="images/ee/ANSYS-Coupler-Loading.jpg" width="360px"></img>
-<img src="images/ee/ANSYS-Coupler-Stress.jpg" width="360px"></img>
+<img src="images/ee/ANSYS-Coupler-Loading.jpg" width="45%">
+<img src="images/ee/ANSYS-Coupler-Stress.jpg" width="45%">
 
-<img src="images/ee/Assembly_5kgLoadThumb_Loading.jpg" width="360px"></img>
-<img src="images/ee/Assembly_5kgLoadThumb_Stress.jpg" width="360px"></img>
+<img src="images/ee/Assembly_5kgLoadThumb_Loading.jpg" width="45%">
+<img src="images/ee/Assembly_5kgLoadThumb_Stress.jpg" width="45%">
 
 #### Results
 
@@ -178,7 +178,21 @@ At competition, the end effector was one of the most reliable parts of the rover
 
 #### Tim's Role
 
-Tim, as a freshman, worked with Varun Belur on the wrist joint of the rover's robotic arm. CMR decided to design two modular wrists, one with two degrees of freedom ("complex wrist") and one with one degree of freedom ("simple wrist"). After a few weeks of training, Tim designed the simple wrist, which was more durable and had less backlash than the complex wrist.
+Tim, as a freshman, worked with Varun Belur on the wrist joint of the rover's robotic arm. CMR decided to design two modular wrists, one with two degrees of freedom ("complex wrist") and one with one degree of freedom ("simple wrist"). 
+
+![](images/wrist/LabeledJoints.png)
+
+After a few weeks of training, Tim designed the simple wrist, which was more durable and had less backlash than the complex wrist.
+
+![](images/wrist/SensorSideView.jpg)
+
+![](images/wrist/WormSideView.jpg)
+
+
+He was trained to perform analysis on the wrist in ANSYS. As ANSYS shows, the design was stiff and the maximum stresses were low.
+
+<img src="images/wrist/ANSYSDisplacement.jpg" width="45%">
+<img src="images/wrist/ANSYSStress.jpg" width="45%">
 
 #### Results
 

@@ -11,20 +11,20 @@ Below are the results of three simulations, each solving different differential 
 2. Differential Algebraic Equations (DAE)
 3. The Lagrange equations
 
-<image src="images/dynamics/3xPendulumNE.gif" width="200"></image>
-<image src="images/dynamics/3xPendulumDAE.gif" width="200"></image>
-<image src="images/dynamics/3xPendulumLE.gif" width="200"></image>
+<image src="images/dynamics/3xPendulumNE.gif" width="30%"></image>
+<image src="images/dynamics/3xPendulumDAE.gif" width="30%"></image>
+<image src="images/dynamics/3xPendulumLE.gif" width="30%"></image>
 
 To verify the solution, he compared the trajectories from the three different sets of equations. They were identical, as one would expect if the problem were solved correctly.
 
-<image src="images/dynamics/All3LineUp.png" width="500"></image>
+<image src="images/dynamics/All3LineUp.png" width="90%"></image>
 
 #### Four-bar linkage
 
 Students were also instructed to fix the end of the third link to an arbitrary position, forming a four-bar linkage.
 He then simulated the un-forced motion of the linkage. The only external force acting on the linkage was gravity.
 
-<image src="images/dynamics/4barLinkageDAE.gif" width="500"></image>
+<image src="images/dynamics/4barLinkageDAE.gif" width="90%"></image>
 
 <image src="images/dynamics/4barLinkageDAETrapezoid.gif" width="500"></image>
 
@@ -38,8 +38,8 @@ Below is an animation of a box rotating about an arbitrary axis (shown in pink).
 
 The following animations compare a the rotation of two boxes in free space. Their initial angular velocity is about an axis slightly offset from their principal axes. No moments are applied, yet the first one tumbles. The second is a cube, so its angular momentum matrix simplifies to a scalar multiple.
 
-<img src="images/dynamics/SpinningBox.gif" width="360"></img>
-<img src="images/dynamics/SpinningCube.gif" width="360"></img>
+<img src="images/dynamics/SpinningBox.gif" width="45%"></img>
+<img src="images/dynamics/SpinningCube.gif" width="45%"></img>
 
 ## Motion of a baseball with realistic air drag
 

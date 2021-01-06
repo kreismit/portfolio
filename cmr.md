@@ -15,6 +15,10 @@ The brand-new AstroTech subteam develops the rover's on-board robotic science la
 
 ![Testing of on-board science lab](images/astrotech.png)
 
+The *science payload frame*, the outer section which hold together, raises, and lowers the entire subsystem, was Tim's design since it interfaced the individual components designed by the other AstroTech members.
+
+[**Click here to read the final report for the design of the science payload frame (23-page PDF)**](https://1drv.ms/b/s!AmJ2drz6YYLg5R4GlBf_5VAdomzQ?e=62aGbp)
+
 #### COVID-19
 
 Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel the competition. However, [CMR made the finals](http://urc.marssociety.org/home/urc-news/announcingtheurc2020finalsqualifiers) and aims for first place in URC 2021!
@@ -116,6 +120,8 @@ The best design with simple fingers used a specially-shaped thumb; the foam flat
 ![](images/ee/NewEE-Perspective.jpg)
 
 ![](images/ee/NewEE-Front.jpg)
+
+This design, assumed to be final, was shown in the fall 2017 semester end effector final report. [**Click here to access the final report (20-page PDF).**](https://1drv.ms/b/s!AmJ2drz6YYLg5R2a--UQL1KzWhzh?e=M9nT0Q)
 
 #### Final Finger Design
 

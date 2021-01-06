@@ -26,7 +26,7 @@ He then simulated the un-forced motion of the linkage. The only external force a
 
 <image src="images/dynamics/4barLinkageDAE.gif" width="90%"></image>
 
-<image src="images/dynamics/4barLinkageDAETrapezoid.gif" width="500"></image>
+<image src="images/dynamics/4barLinkageDAETrapezoid.gif" width="90%"></image>
 
 ## 3-D dynamics simulation
 
@@ -34,12 +34,12 @@ He then simulated the un-forced motion of the linkage. The only external force a
 
 Below is an animation of a box rotating about an arbitrary axis (shown in pink).
 
-<img src="images/dynamics/RotatingBox.gif">
+<image src="images/dynamics/RotatingBox.gif" width="90%"></image>
 
 The following animations compare a the rotation of two boxes in free space. Their initial angular velocity is about an axis slightly offset from their principal axes. No moments are applied, yet the first one tumbles. The second is a cube, so its angular momentum matrix simplifies to a scalar multiple.
 
-<img src="images/dynamics/SpinningBox.gif" width="45%">
-<img src="images/dynamics/SpinningCube.gif" width="45%">
+<image src="images/dynamics/SpinningBox.gif" width="45%"></image>
+<image src="images/dynamics/SpinningCube.gif" width="45%"></image>
 
 ## Motion of a baseball with realistic air drag
 

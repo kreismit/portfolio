@@ -1,7 +1,7 @@
 # Home
 
-<a href="./177.html><image width="300px" src="images/OverdriveStillCropped.jpg" alt="Robot standing in front of state championship posters"></image></a>
-<a href="./cmr.html"><image width="300px" src="images/ee/EE-Top-Front.png" alt="Cutaway view of robot gripper"></image></a>
+<a href="./177.html"><image width="45%" src="images/OverdriveStillCropped.jpg" alt="Robot standing in front of state championship posters"></image></a>
+<a href="./cmr.html"><image width="45%" src="images/ee/EE-Top-Front.png" alt="Cutaway view of robot gripper"></image></a>
 
 Left: Overdrive 2.0, a robot built during high school. Overdrive (in an alliance of three robots) placed third at the world championship!
 

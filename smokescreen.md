@@ -1,8 +1,8 @@
-SmokeScreen will be a network of smart fire helmets allowing firefighters to quickly navigate buildings in thick smoke.
+**SmokeScreen** will be a network of smart fire helmets allowing firefighters to quickly navigate buildings in thick smoke.
 
 **Project Goal**: Show each firefighter a dynamic floorplan of the building around them, with dots or arrows showing other firefighters' locations, in a heads-up display attached to their helmet. Also send this image to the incident commander's computer, allowing them to better coordinate operations.
 
-## M.Eng. Project
+### M.Eng. Project
 
 #### Achievements
 

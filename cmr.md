@@ -7,7 +7,7 @@ Tim was the first leader of the AstroTech subteam when Argos was designed.
 
 ### [Argos (2020)](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/GJg0FMbIHx0&start=215" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="873" height="498" src="https://www.youtube.com/embed/GJg0FMbIHx0?start=215" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 

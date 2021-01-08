@@ -25,7 +25,7 @@ Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel
 
 ### [Artemis](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/KvGK0PksWZA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="873" height="498" src="https://www.youtube.com/embed/KvGK0PksWZA?t=109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 
@@ -61,7 +61,7 @@ While the base functioned perfectly during the competition, the science subsyste
 
 ### [Valkyrie (2018)](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/54MQdJD8Xhg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="873" height="498" src="https://www.youtube.com/embed/54MQdJD8Xhg?t=103" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 

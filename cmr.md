@@ -7,6 +7,8 @@ Tim was the first leader of the AstroTech subteam when Argos was designed.
 
 ### [Argos (2020)](https://marsrover.engineering.cornell.edu/rovers.html)
 
+<iframe width="873" height="498" src="https://www.youtube.com/embed/GJg0FMbIHx0&start=215" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Tim's Role
 
 The brand-new AstroTech subteam develops the rover's on-board robotic science lab! As lead, Tim was essentially the project manager of this subsystem. He did both technical work (designing and helping his members design; manufacturing) and administrative work (keeping the inter- and intra-subteam communication going; and lots of documentation!)
@@ -25,7 +27,7 @@ Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel
 
 ### [Artemis](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/KvGK0PksWZA?t=109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="873" height="498" src="https://www.youtube.com/embed/KvGK0PksWZA?start=109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 
@@ -61,7 +63,7 @@ While the base functioned perfectly during the competition, the science subsyste
 
 ### [Valkyrie (2018)](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/54MQdJD8Xhg?t=103" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="873" height="498" src="https://www.youtube.com/embed/54MQdJD8Xhg?start=103" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 

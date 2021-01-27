@@ -43,6 +43,6 @@ The following animations compare a the rotation of two boxes in free space. Thei
 
 ## Motion of a baseball with realistic air drag
 
-<iframe src="https://cornell.app.box.com/embed/s/k5lxtdjqi1hvw3jo18to4e1jb8vmivsk?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/NQZEGJLb#RK5YqKTDuUxc9sq0_kuYYGY43wLFMDu3lp3kLLMFapg" allowfullscreen ></iframe>
 
 This is an animation of a baseball hit (launched) at a certain initial velocity. Second-order viscous drag is modeled.

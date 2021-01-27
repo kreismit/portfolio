@@ -7,7 +7,7 @@ Tim was the first leader of the AstroTech subteam when Argos was designed.
 
 ### [Argos (2020)](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/GJg0FMbIHx0?start=215" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/GJg0FMbIHx0?start=215" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 
@@ -27,7 +27,7 @@ Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel
 
 ### [Artemis](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/KvGK0PksWZA?start=109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/KvGK0PksWZA?start=109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 
@@ -63,7 +63,7 @@ While the base functioned perfectly during the competition, the science subsyste
 
 ### [Valkyrie (2018)](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/54MQdJD8Xhg?start=103" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/54MQdJD8Xhg?start=103" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 
@@ -182,7 +182,7 @@ At competition, the end effector was one of the most reliable parts of the rover
 
 ### [Athena (2017)](https://marsrover.engineering.cornell.edu/rovers.html)
 
-<iframe width="873" height="498" src="https://www.youtube.com/embed/Ek7NBryLVxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Ek7NBryLVxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tim's Role
 

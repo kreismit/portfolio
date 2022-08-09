@@ -33,7 +33,7 @@ Left: wall on left. Right: wall on right.
 <img src="images/EchoesWallRight_T1.png" width="45%"><br/>
 
 
-[**Click here to access the project final report (79-page PDF).**](https://1drv.ms/b/s!AmJ2drz6YYLg5Rjl9aoMAtcGSi4i?e=lEf5vV)
+[**Click here to access the project final report (79-page PDF).**](https://mega.nz/file/dIBBjSbI#_hiSfPjwa72ulDOEQOu5xHNWNvnX-28JSrtw89_xsRw)
 
 ## Previous Classes
 

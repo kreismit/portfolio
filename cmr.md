@@ -2,10 +2,10 @@
 
 [Cornell Mars Rover (CMR)](https://marsrover.engineering.cornell.edu) designs and builds a new robotic rover each year for the [University Rover Challenge (URC)](https://urc.marssociety.org), a competition for which universities must present design reviews of their rover. Then, the URC judges choose the top 30 teams based on the quality of their design reviews. These top 30 compete in the harsh Mars-like environment of Hanksville, Utah, to determine which team's rover is most suitable to be sent to Mars. CMR has ranked among the top thirty every year since 2012. 
 
-CMR now has eight [subteams](https://marsrover.engineering.cornell.edu/subteam.html), seven of which are technical. These eight subteams consist of [about 50 members](https://marsrover.engineering.cornell.edu/team.html).
+CMR now has eight [subteams](https://marsrover.engineering.cornell.edu/team), seven of which are technical. These eight subteams consist of [about 50 members](https://marsrover.engineering.cornell.edu/team).
 Tim was the first leader of the AstroTech subteam when Argos was designed.
 
-### [Argos (2020)](https://marsrover.engineering.cornell.edu/rovers.html)
+<h3 id="Argos"><a href="https://marsrover.engineering.cornell.edu/rovers">Artemis (2020)</a>
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/GJg0FMbIHx0?start=215" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,7 +25,8 @@ The *science payload frame*, the outer section which hold together, raises, and 
 
 Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel the competition. However, [CMR made the finals](http://urc.marssociety.org/home/urc-news/announcingtheurc2020finalsqualifiers) and aims for first place in URC 2021!
 
-### [Artemis](https://marsrover.engineering.cornell.edu/rovers.html)
+<h3 id="Artemis"><a href="https://marsrover.engineering.cornell.edu/rovers">Artemis (2019)</a>
+
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/KvGK0PksWZA?start=109" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -61,7 +62,7 @@ CMR scored 307.87 out of a possible 500 points; the champions scored 362.9. CMR 
 
 While the base functioned perfectly during the competition, the science subsystem failed to collect soil. It had been tested on rocky soil (and it collected mostly rocks); the soil at the competition was not the native Utah soil, but specially-prepared silt and sand mixtures. This lesson carried on to the redesign of the onboard science lab of Argos.
 
-### [Valkyrie (2018)](https://marsrover.engineering.cornell.edu/rovers.html)
+<h3 id="Valkyrie"><a href="https://marsrover.engineering.cornell.edu/rovers">Valkyrie (2018)</a>
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/54MQdJD8Xhg?start=103" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -180,7 +181,7 @@ At competition, the end effector was one of the most reliable parts of the rover
 
 [](http://urc.marssociety.org/home/urc-news/universityroverchallengetitlereturnstopoland)
 
-### [Athena (2017)](https://marsrover.engineering.cornell.edu/rovers.html)
+<h3 id="Athena"><a href="https://marsrover.engineering.cornell.edu/rovers">Athena (2017)</a>
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/Ek7NBryLVxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -19,11 +19,11 @@ The brand-new AstroTech subteam develops the rover's on-board robotic science la
 
 The *science payload frame*, the outer section which hold together, raises, and lowers the entire subsystem, was Tim's design since it interfaced the individual components designed by the other AstroTech members.
 
-[**Click here to read the final report for the design of the science payload frame (23-page PDF)**](https://1drv.ms/b/s!AmJ2drz6YYLg5R4GlBf_5VAdomzQ?e=62aGbp)
+[**Click here to read the final report for the design of the science payload frame (23-page PDF)**](https://mega.nz/file/4FJXlaqK#MACTByzVyyyhvbrA5Z2ECfJK4FOlLgpEAasR6duS3m4)
 
 #### COVID-19
 
-Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel the competition. However, [CMR made the finals](http://urc.marssociety.org/home/urc-news/announcingtheurc2020finalsqualifiers) and aims for first place in URC 2021!
+Due to the risks and restrictions due to COVID-19, the URC staff chose to cancel the competition. However, [CMR made the finals](https://web.archive.org/web/20210421171600/http://urc.marssociety.org/home/urc-news/announcingtheurc2020finalsqualifiers) and aims for first place in URC 2021!
 
 <h3 id="Artemis"><a href="https://marsrover.engineering.cornell.edu/rovers">Artemis (2019)</a></h3>
 
@@ -56,7 +56,7 @@ Tim was responsible for coordinating different tasks, ranging from soil NPK test
 
 #### Results
 
-[Artemis placed sixth in the world in URC 2019!](http://urc.marssociety.org/home/about-urc/urc2019-scores)
+[Artemis placed sixth in the world in URC 2019!](https://web.archive.org/web/20210421171600/http://urc.marssociety.org/home/about-urc/urc2019-scores)
 
 CMR scored 307.87 out of a possible 500 points; the champions scored 362.9. CMR scored 90/100 in the science mission.
 
@@ -124,7 +124,7 @@ The best design with simple fingers used a specially-shaped thumb; the foam flat
 
 ![](images/ee/NewEE-Front.jpg)
 
-This design, assumed to be final, was shown in the fall 2017 semester end effector final report. [**Click here to access the final report (20-page PDF).**](https://1drv.ms/b/s!AmJ2drz6YYLg5R2a--UQL1KzWhzh?e=M9nT0Q)
+This design, assumed to be final, was shown in the fall 2017 semester end effector final report. [**Click here to access the final report (20-page PDF).**](https://mega.nz/file/9MAmFTpa#egbSA07vcGYZnOTF7Mr_cIn5pgR186EhiESYlktvTPA)
 
 #### Final Finger Design
 
@@ -175,11 +175,11 @@ The entire design was analyzed in ANSYS for several expected loading cases. Thou
 
 #### Results
 
-[Valkyrie placed tenth in the world at URC 2018.](http://urc.marssociety.org/home/about-urc/urc2018-scores) 
+[Valkyrie placed tenth in the world at URC 2018.](https://web.archive.org/web/20210421171600/http://urc.marssociety.org/home/about-urc/urc2018-scores)
 
 At competition, the end effector was one of the most reliable parts of the rover; the operator liked it better than previous iterations. Competition showed us that its "palm" was roughly half an inch too narrow; this has been changed in the current design.
 
-[](http://urc.marssociety.org/home/urc-news/universityroverchallengetitlereturnstopoland)
+[](https://web.archive.org/web/20210421171600/http://urc.marssociety.org/home/urc-news/universityroverchallengetitlereturnstopoland)
 
 <h3 id="Athena"><a href="https://marsrover.engineering.cornell.edu/rovers">Athena (2017)</a></h3>
 
@@ -205,4 +205,4 @@ He was trained to perform analysis on the wrist in ANSYS. As ANSYS shows, the de
 
 #### Results
 
-[Athena placed eleventh in the world in URC 2017.](http://urc.marssociety.org/home/about-urc/urc2017-scores)
+[Athena placed eleventh in the world in URC 2017.](https://web.archive.org/web/20210421171600/http://urc.marssociety.org/home/about-urc/urc2017-scores)
